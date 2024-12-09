@@ -1,6 +1,5 @@
 'use client';
 
-import TransitionSliderLogo from '@/components/Slider/TransitionSliderLogo';
 import { experimental_useAssistant as useAssistant } from 'ai/react';
 import dynamic from 'next/dynamic';
 import Image from 'next/image';
@@ -384,7 +383,7 @@ export default function HomePage() {
           </div>
         )}
       </div>
-      <div className="bg-red-400 py-4 text-center px-3 rounded-md flex items-center justify-center mb-4 mx-6 -mt-12">
+      {/* <div className="bg-red-400 py-4 text-center px-3 rounded-md flex items-center justify-center mb-4 mx-6 -mt-12">
         <p className="text-lg font-bold text-white pt-1">
           {medical[currentLanguage]}&nbsp;
           {(currentLanguage === 'ar' || currentLanguage === 'en') && (
@@ -393,7 +392,7 @@ export default function HomePage() {
             </a>
           )}
         </p>
-      </div>
+      </div> */}
       {/* <div className="relative border-2 border-green-600 rounded-lg px-6 pb-6 mx-4 my-12 text-center shadow">
         <div className="absolute -top-4 inset-x-0 flex justify-center">
           <span className="bg-white px-4 text-2xl font-bold">
@@ -408,7 +407,7 @@ export default function HomePage() {
           />
         </div>
       </div> */}
-      <div className="w-full relative border-2 border-green-600 rounded-lg px-6 mx-4 text-center shadow my-4">
+      {/* <div className="w-full relative border-2 border-green-600 rounded-lg px-6 mx-4 text-center shadow my-4">
         <div className="absolute -top-4 inset-x-0 flex justify-center">
           <span className="bg-white px-4 text-2xl font-bold">
             {sponsorText[currentLanguage]}
@@ -418,7 +417,7 @@ export default function HomePage() {
         <div className="w-full">
           <TransitionSliderLogo />
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
