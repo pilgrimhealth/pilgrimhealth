@@ -1,6 +1,4 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 'use client';
-import { Parser } from 'json2csv';
 import { Loader } from 'lucide-react';
 import moment from 'moment';
 import { useEffect, useState } from 'react';
@@ -9,9 +7,8 @@ import Paginate from '../../../components/Paginate/Paginate';
 import { isValidArray } from '../../../lib/func';
 import API from '../../../lib/instance/instance';
 
-const feedBack = () => {
-
-  const [isReq,setIsReq]= useState(false)
+const FeedBack = () => {
+  const [isReq, setIsReq] = useState(false);
   const [feedBacks, setFeedBacks] = useState({});
   const [currentPage, setCurrentPage] = useState(1);
   const limit = 10;
@@ -20,36 +17,38 @@ const feedBack = () => {
   );
   const fetchFeedBack = async (page) => {
     try {
-      setIsReq(true)
-      const res = await API.get(`/api/feedback?lang=${currentLanguage}&page=${page || 1}&limit=${limit}`);
+      setIsReq(true);
+      const res = await API.get(
+        `/api/feedback?lang=${currentLanguage}&page=${page || 1}&limit=${limit}`
+      );
       console.log(res.data.data, 'result feedback');
-      if (res.data?.success) {
-        setFeedBacks(res?.data);
-      }
-      setIsReq(false)
+      // ...existing code...
     } catch (error) {
-      setIsReq(false)
-
-     }
+      console.error(error);
+    } finally {
+      setIsReq(false);
+    }
   };
-
-  useEffect(() => {
-    fetchFeedBack(1);
-  }, [currentLanguage]);
-
-  const onPageChange = async (page) => {
-    setCurrentPage(page);
-    await fetchFeedBack(page);
-  };
-
   const downloadCSV = () => {
     if (isValidArray(feedBacks?.data)) {
-      const fields = ['gender', 'age', 'nationality','lang', 'rating', 'message', 'createdAt'];
+      const fields = [
+        'gender',
+        'age',
+        'nationality',
+        'lang',
+        'rating',
+        'message',
+        'createdAt',
+      ];
       const json2csvParser = new Parser({ fields });
-      const csv = json2csvParser.parse(feedBacks.data.map(feedback => ({
-        ...feedback,
-        createdAt: moment(feedback.createdAt).format('MMMM Do YYYY, h:mm:ss a')
-      })));
+      const csv = json2csvParser.parse(
+        feedBacks.data.map((feedback) => ({
+          ...feedback,
+          createdAt: moment(feedback.createdAt).format(
+            'MMMM Do YYYY, h:mm:ss a'
+          ),
+        }))
+      );
 
       const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
       const url = URL.createObjectURL(blob);
@@ -62,20 +61,28 @@ const feedBack = () => {
       document.body.removeChild(link);
     }
   };
+  const onPageChange = (page) => {
+    setCurrentPage(page);
+  };
+
+  useEffect(() => {
+    fetchFeedBack(currentPage);
+  }, [currentLanguage, currentPage]);
 
   return (
     <div className="pb-10">
-     <div className='flex items-center justify-between gap-4'>
-     <h2 className="p-4 text-2xl font-bold font-inter">All Feedbacks</h2>
-      <button
-        onClick={downloadCSV}
-        className="bg-blue-500 text-white px-4 py-2 rounded-md mr-6"
-      >
-        Download CSV
-      </button>
-     </div>
+      <div className="flex items-center justify-between gap-4">
+        <h2 className="p-4 text-2xl font-bold font-inter">All Feedbacks</h2>
+        <button
+          onClick={downloadCSV}
+          className="bg-blue-500 text-white px-4 py-2 rounded-md mr-6"
+        >
+          Download CSV
+        </button>
+      </div>
       <ul className="w-full lg:w-[600px] mx-auto" id="feedback-paginate">
-        {!isReq&&isValidArray(feedBacks?.data) &&
+        {!isReq &&
+          isValidArray(feedBacks?.data) &&
           feedBacks.data.map((feedback, index) => (
             <li key={index} className="border p-4 mt-3 rounded-md">
               <div>
@@ -90,7 +97,8 @@ const feedBack = () => {
               </div>
               <div>
                 <p>
-                  <span className="font-bold">Nationality:</span> {feedback?.nationality}{' '}
+                  <span className="font-bold">Nationality:</span>{' '}
+                  {feedback?.nationality}{' '}
                 </p>
               </div>
               <div>
@@ -119,13 +127,22 @@ const feedBack = () => {
             </li>
           ))}
 
-          {isReq&& <div className='flex items-center justify-center'><Loader/></div>}
+        {isReq && (
+          <div className="flex items-center justify-center">
+            <Loader />
+          </div>
+        )}
       </ul>
-      <div className='py-3'>
-        <Paginate setCurrentPage={setCurrentPage} totalPages={feedBacks?.paginate?.totalPage} currentPage={currentPage} onPageChange={onPageChange} />
+      <div className="py-3">
+        <Paginate
+          setCurrentPage={setCurrentPage}
+          totalPages={feedBacks?.paginate?.totalPage}
+          currentPage={currentPage}
+          onPageChange={onPageChange}
+        />
       </div>
     </div>
   );
 };
 
-export default feedBack;
+export default FeedBack;
