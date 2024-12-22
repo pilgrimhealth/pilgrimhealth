@@ -61,6 +61,38 @@ const Chats = () => {
     }
   };
 
+  const downloadCSV = () => {
+    if (isValidArray(feedBacks?.data)) {
+      const fields = [
+        'gender',
+        'age',
+        'nationality',
+        'lang',
+        'rating',
+        'message',
+        'createdAt',
+      ];
+      const json2csvParser = new Parser({ fields });
+      const csv = json2csvParser.parse(
+        feedBacks.data.map((feedback) => ({
+          ...feedback,
+          createdAt: moment(feedback.createdAt).format(
+            'MMMM Do YYYY, h:mm:ss a'
+          ),
+        }))
+      );
+
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.setAttribute('href', url);
+      link.setAttribute('download', 'feedbacks.csv');
+      link.style.visibility = 'hidden';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+  };
   const onPageChange = (page) => {
     setCurrentPage(page);
   };
@@ -75,6 +107,17 @@ const Chats = () => {
         {/* Header */}
         <div className="flex items-center justify-between gap-4 py-6">
           <h2 className="text-2xl font-bold font-inter">All Chats</h2>
+          <button
+            onClick={downloadCSV}
+            disabled={!isValidArray(feedBacks?.data)}
+            className={`px-4 py-2 rounded-md transition-all duration-200 ${
+              isValidArray(feedBacks?.data)
+                ? 'bg-blue-500 hover:bg-blue-600 text-white'
+                : 'bg-gray-300 cursor-not-allowed text-gray-500'
+            }`}
+          >
+            Download CSV
+          </button>
         </div>
 
         {/* Loading State */}

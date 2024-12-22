@@ -79,7 +79,36 @@ const FeedBack = () => {
 
   // Download CSV handler
   const downloadCSV = () => {
-    // CSV download logic here
+    if (isValidArray(feedBacks?.data)) {
+      const fields = [
+        'gender',
+        'age',
+        'nationality',
+        'lang',
+        'rating',
+        'message',
+        'createdAt',
+      ];
+      const json2csvParser = new Parser({ fields });
+      const csv = json2csvParser.parse(
+        feedBacks.data.map((feedback) => ({
+          ...feedback,
+          createdAt: moment(feedback.createdAt).format(
+            'MMMM Do YYYY, h:mm:ss a'
+          ),
+        }))
+      );
+
+      const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.setAttribute('href', url);
+      link.setAttribute('download', 'feedbacks.csv');
+      link.style.visibility = 'hidden';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
   };
 
   // Page change handler
