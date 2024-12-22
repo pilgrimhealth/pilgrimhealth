@@ -2,6 +2,7 @@
 
 import { Loader } from 'lucide-react';
 import moment from 'moment';
+import Papa from 'papaparse';
 import { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import Paginate from '../../../components/Paginate/Paginate';
@@ -63,15 +64,12 @@ const Chats = () => {
 
   const downloadCSV = () => {
     if (isValidArray(chats?.data)) {
-      const fields = ['InputText', 'Lang', 'CreatedAt'];
-      const json2csvParser = new Parser({ fields });
-      const csv = json2csvParser.parse(
-        chats.data.map((chat) => ({
-          InputText: chat.inputText,
-          Lang: chat.lang,
-          CreatedAt: moment(chat.createdAt).format('MMMM Do YYYY, h:mm:ss a'),
-        }))
-      );
+      const csvData = chats.data.map((chat) => ({
+        ...chat,
+        createdAt: moment(chat.createdAt).format('MMMM Do YYYY, h:mm:ss a'),
+      }));
+
+      const csv = Papa.unparse(csvData);
 
       const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
       const url = URL.createObjectURL(blob);
