@@ -1,5 +1,7 @@
 'use client';
 
+import { Parser } from 'json2csv';
+
 import { Loader } from 'lucide-react';
 import moment from 'moment';
 import { useEffect, useState } from 'react';
@@ -99,7 +101,10 @@ const FeedBack = () => {
         }))
       );
 
+      // Create a blob from the CSV data
       const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+
+      // Create a URL for the blob and trigger a download
       const url = URL.createObjectURL(blob);
       const link = document.createElement('a');
       link.setAttribute('href', url);
