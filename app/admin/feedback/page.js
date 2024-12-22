@@ -1,7 +1,6 @@
-'use client';
-
 import { Loader } from 'lucide-react';
 import moment from 'moment';
+import Papa from 'papaparse';
 import { useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import Paginate from '../../../components/Paginate/Paginate';
@@ -61,17 +60,30 @@ const FeedBack = () => {
   const fetchFeedBack = async (page) => {
     try {
       setIsReq(true);
+      setError(null);
+
+      // Log request parameters for debugging
+      console.log('Fetching feedback:', {
+        language: currentLanguage,
+        page: page || 1,
+        limit,
+      });
+
       const res = await API.get(
         `/api/feedback?lang=${currentLanguage}&page=${page || 1}&limit=${limit}`
       );
-      console.log(res.data.data, 'result feedback');
+
+      // Log response for debugging
+      console.log('API Response:', res.data);
+
       if (res.data?.success) {
         setFeedBacks(res.data);
       } else {
         throw new Error(res.data.message || 'Failed to fetch feedback data');
       }
-    } catch (error) {
-      console.error(error);
+    } catch (err) {
+      console.error('Error fetching feedback:', err);
+      setError(err.message || 'An error occurred while fetching feedback');
     } finally {
       setIsReq(false);
     }
@@ -80,24 +92,12 @@ const FeedBack = () => {
   // Download CSV handler
   const downloadCSV = () => {
     if (isValidArray(feedBacks?.data)) {
-      const fields = [
-        'gender',
-        'age',
-        'nationality',
-        'lang',
-        'rating',
-        'message',
-        'createdAt',
-      ];
-      const json2csvParser = new Parser({ fields });
-      const csv = json2csvParser.parse(
-        feedBacks.data.map((feedback) => ({
-          ...feedback,
-          createdAt: moment(feedback.createdAt).format(
-            'MMMM Do YYYY, h:mm:ss a'
-          ),
-        }))
-      );
+      const csvData = feedBacks.data.map((feedback) => ({
+        ...feedback,
+        createdAt: moment(feedback.createdAt).format('MMMM Do YYYY, h:mm:ss a'),
+      }));
+
+      const csv = Papa.unparse(csvData);
 
       const blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
       const url = URL.createObjectURL(blob);
