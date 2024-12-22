@@ -1,3 +1,5 @@
+'use client';
+
 import { Loader } from 'lucide-react';
 import moment from 'moment';
 import Papa from 'papaparse';
