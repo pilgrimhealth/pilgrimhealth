@@ -4691,11 +4691,6 @@ export default function OpenAIAssistant({
   async function handleSubmitOpenAi(e) {
     e.preventDefault();
 
-    API.post('/api/chat', {
-      inputText: userInput,
-      lang: currentLanguage,
-      responseText: answer?.answer[currentLanguage],
-    });
     if (suggesstions?.length) return;
     // clear streaming message
     setStreamingMessage({
@@ -4766,6 +4761,11 @@ export default function OpenAIAssistant({
           createdAt: new Date(),
         },
       ]);
+      API.post('/api/chat', {
+        inputText: userInput,
+        lang: currentLanguage,
+        responseText: finalContent,
+      });
 
       // remove busy indicator
       setIsLoading(false);
