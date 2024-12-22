@@ -74,23 +74,28 @@ const Chats = () => {
           Download CSV
         </button>
       </div>
-      <ul>
-        {isValidArray(chats.data) ? (
-          chats.data.map((chat) => (
-            <li key={chat.id}>
-              {chat.message} -{' '}
-              {moment(chat.createdAt).format('MMMM Do YYYY, h:mm:ss a')}
-            </li>
-          ))
-        ) : (
-          <li>No chats available</li>
-        )}
-        {isReq && (
-          <div className="flex items-center justify-center">
-            <Loader />
-          </div>
-        )}
-      </ul>
+      <div className="bg-blue-200">
+        <ul>
+          {isValidArray(chats.data) ? (
+            chats.data.map((chat) => (
+              <li
+                key={chat.id}
+                className="p-4 flex align-center justify-center"
+              >
+                {chat.message} -{' '}
+                {moment(chat.createdAt).format('MMMM Do YYYY, h:mm:ss a')}
+              </li>
+            ))
+          ) : (
+            <li>No chats available</li>
+          )}
+          {isReq && (
+            <div className="flex items-center justify-center">
+              <Loader />
+            </div>
+          )}
+        </ul>
+      </div>
       <div className="py-3">
         <Paginate
           setCurrentPage={setCurrentPage}
