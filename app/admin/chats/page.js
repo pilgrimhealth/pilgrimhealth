@@ -18,7 +18,7 @@ const ChatItem = ({ chat }) => (
       </p>
       <p>
         <span className="font-bold">Response Text:</span>{' '}
-        {chat.responseText || 'No response yet'}
+        {chat.responseText || 'N/A'}
       </p>
       <p>
         <span className="font-bold">Lang:</span> {chat.lang || 'N/A'}

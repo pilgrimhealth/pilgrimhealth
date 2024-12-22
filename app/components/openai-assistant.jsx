@@ -4691,8 +4691,11 @@ export default function OpenAIAssistant({
   async function handleSubmitOpenAi(e) {
     e.preventDefault();
 
-
-    API.post('/api/chat', { inputText: userInput, lang: currentLanguage })
+    API.post('/api/chat', {
+      inputText: userInput,
+      lang: currentLanguage,
+      responseText: answer?.answer[currentLanguage],
+    });
     if (suggesstions?.length) return;
     // clear streaming message
     setStreamingMessage({
@@ -4814,8 +4817,9 @@ export default function OpenAIAssistant({
 
       <form
         onSubmit={handleSubmitOpenAi}
-        className={`py-3 md:py-4 h-fit ring-1 ring-gray-200 outline-none focus:ring-[#00afbf] bg-white rounded-[10px] flex items-center justify-center  w-full ${isRtl ? 'pr-2 pl-11' : 'pl-2 pr-11'
-          }`}
+        className={`py-3 md:py-4 h-fit ring-1 ring-gray-200 outline-none focus:ring-[#00afbf] bg-white rounded-[10px] flex items-center justify-center  w-full ${
+          isRtl ? 'pr-2 pl-11' : 'pl-2 pr-11'
+        }`}
       >
         <textarea
           autoFocus
@@ -4825,16 +4829,17 @@ export default function OpenAIAssistant({
             answer?.question
               ? decodeURIComponent(answer?.question[currentLanguage])
               : typeof userInput == 'object'
-                ? decodeURIComponent(userInput[currentLanguage])
-                : decodeURIComponent(userInput)
+              ? decodeURIComponent(userInput[currentLanguage])
+              : decodeURIComponent(userInput)
           }
           placeholder={decodeURIComponent(placeholder[currentLanguage]) || ''}
         />
 
         {isLoading ? (
           <button
-            className={`absolute ml-2 order-1 bg-blue-500 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline ${isRtl ? 'left-1' : 'right-1'
-              }`}
+            className={`absolute ml-2 order-1 bg-blue-500 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline ${
+              isRtl ? 'left-1' : 'right-1'
+            }`}
           >
             <OpenAISpinner />
           </button>
@@ -4856,16 +4861,18 @@ export default function OpenAIAssistant({
 
       <div className="w-full">
         <div
-          className={`flex flex-col w-full items-center py-4 ${isRtl ? 'flex-row-reverse' : ''
-            }`}
+          className={`flex flex-col w-full items-center py-4 ${
+            isRtl ? 'flex-row-reverse' : ''
+          }`}
         >
           <div className="w-full my-4 flex items-center justify-center  ">
             {userInput && (
               <ul
-                className={`${suggestionLinks
+                className={`${
+                  suggestionLinks
                     ? ' mx-4   grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4   '
                     : 'hidden'
-                  }`}
+                }`}
               >
                 {suggesstions.length > 0 &&
                   suggesstions.map((suggestion, i) => (
@@ -4892,8 +4899,9 @@ export default function OpenAIAssistant({
             )}
           </div>
           <div
-            className={`answer w-4/5 rounded-lg relative bg-[#F0F4F9] p-4 ${answerBox ? 'block' : 'hidden'
-              }`}
+            className={`answer w-4/5 rounded-lg relative bg-[#F0F4F9] p-4 ${
+              answerBox ? 'block' : 'hidden'
+            }`}
           >
             <span
               className=" h-6 flex items-center justify-center w-6 absolute  text-black font-bold  right-1 top-1  bg-white  rounded-full cursor-pointer "
@@ -4941,15 +4949,18 @@ export function OpenAIAssistantMessage({ message }) {
   }
   return (
     <div
-      className={`w-full px-4 py-6 bg-gray-100 rounded-lg ${isRtl ? 'text-right' : 'text-left'
-        }`}
+      className={`w-full px-4 py-6 bg-gray-100 rounded-lg ${
+        isRtl ? 'text-right' : 'text-left'
+      }`}
     >
       <div
-        className={`mx-4 ${message.role == 'user'
+        className={`mx-4 ${
+          message.role == 'user'
             ? ' bg-[#085f63] text-white w-fit px-2 py-2 rounded-md'
             : ' text-[#085f63] leading-7 text-justify'
-          } ${isRtl ? 'text-right' : 'text-left'
-          } overflow-auto openai-text relative`}
+        } ${
+          isRtl ? 'text-right' : 'text-left'
+        } overflow-auto openai-text relative`}
       >
         {console.log(message?.content)}
 
