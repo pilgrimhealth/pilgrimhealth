@@ -62,23 +62,14 @@ const Chats = () => {
   };
 
   const downloadCSV = () => {
-    if (isValidArray(feedBacks?.data)) {
-      const fields = [
-        'gender',
-        'age',
-        'nationality',
-        'lang',
-        'rating',
-        'message',
-        'createdAt',
-      ];
+    if (isValidArray(chats?.data)) {
+      const fields = ['InputText', 'Lang', 'CreatedAt'];
       const json2csvParser = new Parser({ fields });
       const csv = json2csvParser.parse(
-        feedBacks.data.map((feedback) => ({
-          ...feedback,
-          createdAt: moment(feedback.createdAt).format(
-            'MMMM Do YYYY, h:mm:ss a'
-          ),
+        chats.data.map((chat) => ({
+          InputText: chat.inputText,
+          Lang: chat.lang,
+          CreatedAt: moment(chat.createdAt).format('MMMM Do YYYY, h:mm:ss a'),
         }))
       );
 
@@ -86,7 +77,7 @@ const Chats = () => {
       const url = URL.createObjectURL(blob);
       const link = document.createElement('a');
       link.setAttribute('href', url);
-      link.setAttribute('download', 'feedbacks.csv');
+      link.setAttribute('download', 'chats.csv');
       link.style.visibility = 'hidden';
       document.body.appendChild(link);
       link.click();
@@ -109,9 +100,9 @@ const Chats = () => {
           <h2 className="text-2xl font-bold font-inter">All Chats</h2>
           <button
             onClick={downloadCSV}
-            disabled={!isValidArray(feedBacks?.data)}
+            disabled={!isValidArray(chats?.data)}
             className={`px-4 py-2 rounded-md transition-all duration-200 ${
-              isValidArray(feedBacks?.data)
+              isValidArray(chats?.data)
                 ? 'bg-blue-500 hover:bg-blue-600 text-white'
                 : 'bg-gray-300 cursor-not-allowed text-gray-500'
             }`}
