@@ -18,7 +18,7 @@ const ChatItem = ({ chat }) => (
       </p>
       <p>
         <span className="font-bold">Response Text:</span>{' '}
-        {chat.responseText || 'N/A'}
+        {chat.responseText || 'No response yet'}
       </p>
       <p>
         <span className="font-bold">Lang:</span> {chat.lang || 'N/A'}
@@ -82,6 +82,7 @@ const Chats = () => {
       document.body.removeChild(link);
     }
   };
+
   const onPageChange = (page) => {
     setCurrentPage(page);
   };
