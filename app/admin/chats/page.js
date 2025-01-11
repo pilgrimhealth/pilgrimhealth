@@ -9,7 +9,6 @@ import Paginate from '../../../components/Paginate/Paginate';
 import { isValidArray } from '../../../lib/func';
 import API from '../../../lib/instance/instance';
 
-// Component for rendering individual chat items
 const ChatItem = ({ chat }) => (
   <li className="border p-4 mt-3 rounded-md shadow-sm">
     <div className="space-y-2">
