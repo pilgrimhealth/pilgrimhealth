@@ -324,7 +324,7 @@ export default function HomePage() {
             <span>
               <Image
                 src="./flashcardicon.png"
-                width={22}
+                width={23}
                 height={23}
                 alt="health-image"
                 className=" "
