@@ -16,17 +16,17 @@ export const dataCards = [
     sources: [
       {
         src: {
-          en: '/new-thumbnail/0.jpg',
-          fr: '/new-thumbnail/0-fr.jpg',
-          ud: '/new-thumbnail/0-ud.jpg',
-          in: '/new-thumbnail/0.jpg',
-          ar: '/new-thumbnail/0.jpg',
-          bm: '/new-thumbnail/0-bm.jpg',
-          tr: '/new-thumbnail/0-tr.jpg',
-          bn: '/new-thumbnail/0.jpg',
-          hn: '/new-thumbnail/0-hn.jpg',
-          ks: '/new-thumbnail/0.jpg',
-          fa: '/new-thumbnail/0-fa.jpg',
+          en: '/new-thumbnail/new.jpg',
+          fr: '/new-thumbnail/new-fr.jpg',
+          ud: '/new-thumbnail/new-ud.jpg',
+          in: '/new-thumbnail/new.jpg',
+          ar: '/new-thumbnail/new.jpg',
+          bm: '/new-thumbnail/new-bm.jpg',
+          tr: '/new-thumbnail/new-tr.jpg',
+          bn: '/new-thumbnail/new.jpg',
+          hn: '/new-thumbnail/new-hn.jpg',
+          ks: '/new-thumbnail/new.jpg',
+          fa: '/new-thumbnail/new-fa.jpg',
         },
         title: {
           en: 'Health Guidance for Pilgrims',
