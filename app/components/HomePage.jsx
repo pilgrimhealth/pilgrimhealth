@@ -74,7 +74,7 @@ export default function HomePage() {
   const homePageElement = {
     en: {
       nearby: 'Medical Facilities',
-      health: 'Health & Enviro Tips',
+      health: 'Health Guidance',
       plceholder: 'Type Your Question',
       FAQ: 'Few Examples To Ask',
       less: 'Less',
@@ -87,7 +87,7 @@ export default function HomePage() {
     },
     ar: {
       nearby: 'المرافق الطبية',
-      health: 'نصائح صحية وبيئية',
+      health: 'الإرشاد الصحي',
       plceholder: 'اكتب سؤالك',
       FAQ: 'بعض الأمثلة لتسأل',
       less: 'أقل',
@@ -100,7 +100,7 @@ export default function HomePage() {
     },
     bn: {
       nearby: 'চিকিৎসা সুবিধা',
-      health: 'স্বাস্থ্য ও পরিবেশ টিপস',
+      health: 'স্বাস্থ্য নির্দেশনা',
       plceholder: 'আপনার প্রশ্ন টাইপ করুন',
       FAQ: 'কিছু উদাহরণ জিজ্ঞাসা করতে',
       less: 'কম',
@@ -113,7 +113,7 @@ export default function HomePage() {
     },
     bm: {
       nearby: 'Kemudahan Perubatan',
-      health: 'Tips Kesihatan & Alam Sekitar',
+      health: 'Panduan Kesihatan',
       plceholder: 'Taip soalan anda',
       FAQ: 'Beberapa Contoh untuk Ditanya',
       less: 'Kurang',
@@ -126,7 +126,7 @@ export default function HomePage() {
     },
     ud: {
       nearby: 'طبی سہولیات',
-      health: 'صحت اور ماحولیات کی تجاویز',
+      health: 'صحت کی رہنمائی',
       plceholder: 'اپنا سوال ٹائپ کریں',
       FAQ: 'پوچھنے کے لیے چند مثالیں',
       less: 'کم',
@@ -139,7 +139,7 @@ export default function HomePage() {
     },
     fr: {
       nearby: 'Installations Médicales',
-      health: 'Conseils Santé & Environnement',
+      health: 'Guide de santé',
       plceholder: 'Tapez votre question',
       FAQ: 'Quelques Exemples à Demander',
       less: 'Moins',
@@ -152,7 +152,7 @@ export default function HomePage() {
     },
     in: {
       nearby: 'Fasilitas Medis',
-      health: 'Tips Kesehatan & Lingkungan',
+      health: 'Panduan Kesehatan',
       plceholder: 'Ketik pertanyaan Anda',
       FAQ: 'Beberapa Contoh untuk Ditanyakan',
       less: 'Kurang',
@@ -165,7 +165,7 @@ export default function HomePage() {
     },
     tr: {
       nearby: 'Tıbbi Tesisler',
-      health: 'Sağlık ve Çevre İpuçları',
+      health: 'Sağlık Rehberliği',
       plceholder: 'Sorunuzu yazın',
       FAQ: 'Sorulacak Birkaç Örnek',
       less: 'Daha Az',
@@ -178,7 +178,7 @@ export default function HomePage() {
     },
     hn: {
       nearby: 'चिकित्सा सुविधाएं',
-      health: 'स्वास्थ्य और पर्यावरण सुझाव',
+      health: 'स्वास्थ्य मार्गदर्शन',
       plceholder: 'अपना सवाल टाइप करें',
       FAQ: 'पूछने के लिए कुछ उदाहरण',
       less: 'कम',
@@ -191,7 +191,7 @@ export default function HomePage() {
     },
     ks: {
       nearby: 'Vituo vya Matibabu',
-      health: 'Vidokezo vya Afya na Mazingira',
+      health: 'Mwongozo wa Afya',
       plceholder: 'Andika swali lako',
       FAQ: 'Mifano Michache ya Kuuliza',
       less: 'Chache',
@@ -204,7 +204,7 @@ export default function HomePage() {
     },
     fa: {
       nearby: 'تسهیلات پزشکی',
-      health: 'نکات بهداشتی و محیط زیست',
+      health: 'راهنمای سلامت',
       plceholder: 'سوال خود را تایپ کنید',
       FAQ: 'چند مثال برای پرسیدن',
       less: 'کمتر',
@@ -383,7 +383,7 @@ export default function HomePage() {
           </div>
         )}
       </div>
-      {/* <div className="bg-red-400 py-4 text-center px-3 rounded-md flex items-center justify-center mb-4 mx-6 -mt-12">
+      <div className="bg-red-400 py-4 text-center px-3 rounded-md flex items-center justify-center mb-4 mx-6 -mt-12">
         <p className="text-lg font-bold text-white pt-1">
           {medical[currentLanguage]}&nbsp;
           {(currentLanguage === 'ar' || currentLanguage === 'en') && (
@@ -392,8 +392,8 @@ export default function HomePage() {
             </a>
           )}
         </p>
-      </div> */}
-      {/* <div className="relative border-2 border-green-600 rounded-lg px-6 pb-6 mx-4 my-12 text-center shadow">
+      </div>
+      <div className="relative border-2 border-green-600 rounded-lg px-6 pb-6 mx-4 my-12 text-center shadow">
         <div className="absolute -top-4 inset-x-0 flex justify-center">
           <span className="bg-white px-4 text-2xl font-bold">
             {logoText[currentLanguage]}
@@ -406,7 +406,7 @@ export default function HomePage() {
             className="max-w-full h-auto"
           />
         </div>
-      </div> */}
+      </div>
       {/* <div className="w-full relative border-2 border-green-600 rounded-lg px-6 mx-4 text-center shadow my-4">
         <div className="absolute -top-4 inset-x-0 flex justify-center">
           <span className="bg-white px-4 text-2xl font-bold">
