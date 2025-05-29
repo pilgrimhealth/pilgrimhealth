@@ -38,14 +38,14 @@ export default function Header() {
 
   return (
     <div className=" shadow-sm flex gap-2 relative flex-col  pb-4  items-center bg-gray-50">
-      <div className="flex items-center justify-center w-full ">
+      <div className="flex items-center justify-center w- ">
         <Link href="/" className="w-[50%] ">
           <Image
             src="/logoAI.svg"
-            height={400}
-            width={400}
+            height={300}
+            width={300}
             alt="logo"
-            className=" mt-4 mb-2 w-full "
+            className=" mt-4 mb-2  "
             priority
           />
         </Link>
