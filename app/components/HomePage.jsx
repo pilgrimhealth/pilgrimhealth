@@ -297,7 +297,7 @@ export default function HomePage() {
   const activeAnswerRef = useRef(null);
   const executeScroll = () => activeAnswerRef.current.scrollIntoView();
   return (
-    <div className=" flex flex-col w-full h-auto items-center mt-2 overflow-hidden ">
+    <div className=" flex flex-col w-full h-auto items-center mt-2 overflow-hidden max-w-xl mx-auto ">
       <div className="navigate flex items-center flex-wrap justify-center gap-4 my-10 w-full sm:text-sm  ">
         <Link href="/medical" className="">
           <button className=" bg-[#085f63] flex gap-2 justify-between  px-2 rounded-lg  text-[14px] text-white font-semibold py-2">
