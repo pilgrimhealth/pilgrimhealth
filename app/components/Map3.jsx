@@ -3766,6 +3766,7 @@ export default function Home() {
   ]);
   const [radius, setRadius] = useState(1000);
   const [businessList, setBusinessList] = useState(specificHospitals);
+  console.log("businessList", businessList)
   const [businessListOrg, setBusinessListOrg] = useState([]);
   const [loading, setLoading] = useState(false);
 
@@ -3817,7 +3818,6 @@ export default function Home() {
     }
   }, [category, radius, userLocation]);
 
-  console.log(businessList, 'businessList');
   return (
     <div className="px-1 ">
       <GoogleMapView businessList={businessList} />

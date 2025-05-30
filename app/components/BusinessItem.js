@@ -8,6 +8,7 @@ function BusinessItem({business,showDir=false}) {
     const GOOGLE_API_KEY=process.env.NEXT_PUBLIC_GOOGLE_API_KEY;
     const photo_ref=business?.photos?business?.photos[0]?.photo_reference:''
     const {userLocation,setUserLocation}=useContext(UserLocationContext);
+    console.log("userLocation", userLocation)
     const [distance,setDistance]=useState();
     useEffect(()=>{
       calculateDistance(
