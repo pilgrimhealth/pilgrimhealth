@@ -52,7 +52,7 @@ export default function TopicInfo({ params }) {
 
   // console.log(currentCards,'cureent cards')
   return (
-    <div className="flex flex-col  h-screen items-center w-full  border-b-2 border-white pt-4">
+    <div className="flex flex-col  h-screen items-center w-full  border-b-2 border-white pt-4 max-w-xl mx-auto">
       {!loading && <>
         <div className="flex flex-col items-center relative w-full mb-6">
           <div className="flex w-full px-3 gap-4 items-center justify-between">

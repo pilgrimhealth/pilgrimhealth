@@ -29,7 +29,7 @@ export default function HealthCare() {
   }, []);
 
   return (
-    <div className="px-2 gap-4 flex flex-col w-full items-center justify-center relative">
+    <div className="px-2 gap-4 flex flex-col mt-[2.5%] w-full items-center justify-center relative max-w-xl mx-auto">
       {isLoading && (
         <div className="w-full h-screen flex items-center justify-center relative">
           <div className="absolute top-[20%] flex items-center justify-center">
