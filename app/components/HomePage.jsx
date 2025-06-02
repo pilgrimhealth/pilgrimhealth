@@ -401,7 +401,7 @@ export default function HomePage() {
         </div>
         <div className="flex justify-center mt-6">
           <img
-            src="/bottom-logo.jpg"
+            src="/mhc-logo.png"
             alt="Sponsor Logos"
             className="max-w-full h-auto"
           />
