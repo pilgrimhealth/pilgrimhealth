@@ -3,6 +3,7 @@ import { useContext, useEffect, useState } from 'react';
 import { useSelector } from 'react-redux';
 import { SelectedBusinessContext } from '../context/SelectedBusinessContext';
 import { UserLocationContext } from '../context/UserLocationContext';
+import Markers from './Markers';
 
 function GoogleMapView({ businessList }) {
   const { userLocation, setUserLocation } = useContext(UserLocationContext);
@@ -20,12 +21,16 @@ function GoogleMapView({ businessList }) {
   };
 
   useEffect(() => {
-    if (map && selectedBusiness) {
+    if (!map) return;
+    if (selectedBusiness) {
       map.panTo(selectedBusiness.geometry.location);
+      map.setZoom(16);
+    } else if (userLocation) {
+      map.panTo(userLocation);
+      map.setZoom(14);
     }
   }, [selectedBusiness]);
 
-  console.log(selectedBusiness,'selectedBusiness')
   return (
     <div>
       <LoadScript
@@ -53,9 +58,10 @@ function GoogleMapView({ businessList }) {
               },
             }}
           />
-          {/* {businessList.map((item,index)=>index<=5&&(
-                <Markers business={item} key={index}/>
-              ))} */}
+          {businessList &&
+            businessList.map((item) => (
+              <Markers business={item} key={item.id} />
+            ))}
         </GoogleMap>
       </LoadScript>
     </div>

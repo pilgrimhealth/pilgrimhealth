@@ -3804,7 +3804,11 @@ export default function Home() {
             userLocation.lat,
             userLocation.lng
           );
-          return { ...place, distance };
+          return {
+            ...place,
+            distance,
+            id: `${place.geometry.location.lat}-${place.geometry.location.lng}`,
+          };
         });
 
         const sortedPlaces = specificHospitalsMap?.sort(
