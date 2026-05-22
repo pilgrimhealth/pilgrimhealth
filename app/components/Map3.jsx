@@ -8,6 +8,7 @@ import SkeltonLoading from '../components/SkeltonLoading';
 import { UserLocationContext } from '../context/UserLocationContext';
 
 import { useContext, useEffect, useState } from 'react';
+import newHospitals from '../../hospitals_lists.json';
 const specificHospitals = [
   {
     name: {
@@ -3755,6 +3756,8 @@ const specificHospitals = [
   },
 ];
 
+const allHospitals = [...specificHospitals, ...newHospitals];
+
 export default function Home() {
   const [category, setCategory] = useState('hospital');
   const [exclude, setExclude] = useState([
@@ -3765,7 +3768,7 @@ export default function Home() {
     'kilenik',
   ]);
   const [radius, setRadius] = useState(1000);
-  const [businessList, setBusinessList] = useState(specificHospitals);
+  const [businessList, setBusinessList] = useState(allHospitals);
   console.log("businessList", businessList)
   const [businessListOrg, setBusinessListOrg] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -3797,7 +3800,7 @@ export default function Home() {
         //     );
         //     return { ...place, distance };
         //   });
-        const specificHospitalsMap = specificHospitals?.map((place) => {
+        const specificHospitalsMap = allHospitals?.map((place) => {
           const distance = calculateDistance(
             place.geometry.location.lat,
             place.geometry.location.lng,

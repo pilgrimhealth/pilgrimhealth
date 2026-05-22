@@ -1,0 +1,3062 @@
+[
+  {
+    "name": {
+      "en": "Mina Emergency Hospital",
+      "ar": "مستشفى منى الطوارئ",
+      "ud": "منیٰ ایمرجنسی ہسپتال",
+      "fr": "Hôpital d'urgence de Mina",
+      "bm": "Hospital Kecemasan Mina",
+      "in": "Rumah Sakit Darurat Mina",
+      "tr": "Mina Acil Hastanesi",
+      "hn": "मिना आपातकालीन अस्पताल",
+      "ks": "Hospitali ya Dharura ya Mina",
+      "bn": "মিনা জরুরি হাসপাতাল",
+      "fa": "بیمارستان اورژانس منا"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4136055,
+        "lng": 39.8801565
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Bridge Hospital",
+      "ar": "مستشفى منى الجسر",
+      "ud": "منیٰ برج ہسپتال",
+      "fr": "Hôpital du Pont de Mina",
+      "bm": "Hospital Jambatan Mina",
+      "in": "Rumah Sakit Jembatan Mina",
+      "tr": "Mina Köprü Hastanesi",
+      "hn": "मिना पुल अस्पताल",
+      "ks": "Hospitali ya Daraja la Mina",
+      "bn": "মিনা ব্রিজ হাসপাতাল",
+      "fa": "بیمارستان پل منا"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4051578,
+        "lng": 39.888396
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Valley Hospital",
+      "ar": "مستشفى منى الوادي",
+      "ud": "منیٰ وادی ہسپتال",
+      "fr": "Hôpital de la Vallée de Mina",
+      "bm": "Hospital Lembah Mina",
+      "in": "Rumah Sakit Lembah Mina",
+      "tr": "Mina Vadi Hastanesi",
+      "hn": "मिना घाटी अस्पताल",
+      "ks": "Hospitali ya Bonde la Mina",
+      "bn": "মিনা উপত্যকা হাসপাতাল",
+      "fa": "بیمارستان دره منا"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4131153,
+        "lng": 39.9018535
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina New Street Hospital",
+      "ar": "مستشفى منى الشارع الجديد",
+      "ud": "منیٰ نئی سڑک ہسپتال",
+      "fr": "Hôpital de la Nouvelle Rue de Mina",
+      "bm": "Hospital Jalan Baru Mina",
+      "in": "Rumah Sakit Jalan Baru Mina",
+      "tr": "Mina Yeni Cadde Hastanesi",
+      "hn": "मिना नई सड़क अस्पताल",
+      "ks": "Hospitali ya Barabara Mpya ya Mina",
+      "bn": "মিনা নতুন রাস্তা হাসপাতাল",
+      "fa": "بیمارستان خیابان جدید منا"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4125237,
+        "lng": 39.8893491
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 1",
+      "ar": "مركز منى 1",
+      "ud": "منیٰ مرکز 1",
+      "fr": "Centre de Mina 1",
+      "bm": "Pusat Mina 1",
+      "in": "Pusat Mina 1",
+      "tr": "Mina Merkezi 1",
+      "hn": "मिना केंद्र 1",
+      "ks": "Kituo cha Mina 1",
+      "bn": "মিনা কেন্দ্র 1",
+      "fa": "مرکز منا 1"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4165001,
+        "lng": 39.8806203
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 2",
+      "ar": "مركز منى 2",
+      "ud": "منیٰ مرکز 2",
+      "fr": "Centre de Mina 2",
+      "bm": "Pusat Mina 2",
+      "in": "Pusat Mina 2",
+      "tr": "Mina Merkezi 2",
+      "hn": "मिना केंद्र 2",
+      "ks": "Kituo cha Mina 2",
+      "bn": "মিনা কেন্দ্র 2",
+      "fa": "مرکز منا 2"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4145798,
+        "lng": 39.8837937
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 3",
+      "ar": "مركز منى 3",
+      "ud": "منیٰ مرکز 3",
+      "fr": "Centre de Mina 3",
+      "bm": "Pusat Mina 3",
+      "in": "Pusat Mina 3",
+      "tr": "Mina Merkezi 3",
+      "hn": "मिना केंद्र 3",
+      "ks": "Kituo cha Mina 3",
+      "bn": "মিনা কেন্দ্র 3",
+      "fa": "مرکز منا 3"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4089427,
+        "lng": 39.8882142
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 4",
+      "ar": "مركز منى 4",
+      "ud": "منیٰ مرکز 4",
+      "fr": "Centre de Mina 4",
+      "bm": "Pusat Mina 4",
+      "in": "Pusat Mina 4",
+      "tr": "Mina Merkezi 4",
+      "hn": "मिना केंद्र 4",
+      "ks": "Kituo cha Mina 4",
+      "bn": "মিনা কেন্দ্র 4",
+      "fa": "مرکز منا 4"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.406796,
+        "lng": 39.893195
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 5",
+      "ar": "مركز منى 5",
+      "ud": "منیٰ مرکز 5",
+      "fr": "Centre de Mina 5",
+      "bm": "Pusat Mina 5",
+      "in": "Pusat Mina 5",
+      "tr": "Mina Merkezi 5",
+      "hn": "मिना केंद्र 5",
+      "ks": "Kituo cha Mina 5",
+      "bn": "মিনা কেন্দ্র 5",
+      "fa": "مرکز منا 5"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.397981,
+        "lng": 39.9015508
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 6",
+      "ar": "مركز منى 6",
+      "ud": "منیٰ مرکز 6",
+      "fr": "Centre de Mina 6",
+      "bm": "Pusat Mina 6",
+      "in": "Pusat Mina 6",
+      "tr": "Mina Merkezi 6",
+      "hn": "मिना केंद्र 6",
+      "ks": "Kituo cha Mina 6",
+      "bn": "মিনা কেন্দ্র 6",
+      "fa": "مرکز منا 6"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4147715,
+        "lng": 39.8867141
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 7",
+      "ar": "مركز منى 7",
+      "ud": "منیٰ مرکز 7",
+      "fr": "Centre de Mina 7",
+      "bm": "Pusat Mina 7",
+      "in": "Pusat Mina 7",
+      "tr": "Mina Merkezi 7",
+      "hn": "मिना केंद्र 7",
+      "ks": "Kituo cha Mina 7",
+      "bn": "মিনা কেন্দ্র 7",
+      "fa": "مرکز منا 7"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4170978,
+        "lng": 39.8865498
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 8",
+      "ar": "مركز منى 8",
+      "ud": "منیٰ مرکز 8",
+      "fr": "Centre de Mina 8",
+      "bm": "Pusat Mina 8",
+      "in": "Pusat Mina 8",
+      "tr": "Mina Merkezi 8",
+      "hn": "मिना केंद्र 8",
+      "ks": "Kituo cha Mina 8",
+      "bn": "মিনা কেন্দ্র 8",
+      "fa": "مرکز منا 8"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4183486,
+        "lng": 39.8952815
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 9",
+      "ar": "مركز منى 9",
+      "ud": "منیٰ مرکز 9",
+      "fr": "Centre de Mina 9",
+      "bm": "Pusat Mina 9",
+      "in": "Pusat Mina 9",
+      "tr": "Mina Merkezi 9",
+      "hn": "मिना केंद्र 9",
+      "ks": "Kituo cha Mina 9",
+      "bn": "মিনা কেন্দ্র 9",
+      "fa": "مرکز منا 9"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4240553,
+        "lng": 39.8934723
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 10",
+      "ar": "مركز منى 10",
+      "ud": "منیٰ مرکز 10",
+      "fr": "Centre de Mina 10",
+      "bm": "Pusat Mina 10",
+      "in": "Pusat Mina 10",
+      "tr": "Mina Merkezi 10",
+      "hn": "मिना केंद्र 10",
+      "ks": "Kituo cha Mina 10",
+      "bn": "মিনা কেন্দ্র 10",
+      "fa": "مرکز منا 10"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4178604,
+        "lng": 39.8998386
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 11",
+      "ar": "مركز منى 11",
+      "ud": "منیٰ مرکز 11",
+      "fr": "Centre de Mina 11",
+      "bm": "Pusat Mina 11",
+      "in": "Pusat Mina 11",
+      "tr": "Mina Merkezi 11",
+      "hn": "मिना केंद्र 11",
+      "ks": "Kituo cha Mina 11",
+      "bn": "মিনা কেন্দ্র 11",
+      "fa": "مرکز منا 11"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4224579,
+        "lng": 39.9005081
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 12",
+      "ar": "مركز منى 12",
+      "ud": "منیٰ مرکز 12",
+      "fr": "Centre de Mina 12",
+      "bm": "Pusat Mina 12",
+      "in": "Pusat Mina 12",
+      "tr": "Mina Merkezi 12",
+      "hn": "मिना केंद्र 12",
+      "ks": "Kituo cha Mina 12",
+      "bn": "মিনা কেন্দ্র 12",
+      "fa": "مرکز منا 12"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4241625,
+        "lng": 39.9006037
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 13",
+      "ar": "مركز منى 13",
+      "ud": "منیٰ مرکز 13",
+      "fr": "Centre de Mina 13",
+      "bm": "Pusat Mina 13",
+      "in": "Pusat Mina 13",
+      "tr": "Mina Merkezi 13",
+      "hn": "मिना केंद्र 13",
+      "ks": "Kituo cha Mina 13",
+      "bn": "মিনা কেন্দ্র 13",
+      "fa": "مرکز منا 13"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.3955911,
+        "lng": 39.901255
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 14",
+      "ar": "مركز منى 14",
+      "ud": "منیٰ مرکز 14",
+      "fr": "Centre de Mina 14",
+      "bm": "Pusat Mina 14",
+      "in": "Pusat Mina 14",
+      "tr": "Mina Merkezi 14",
+      "hn": "मिना केंद्र 14",
+      "ks": "Kituo cha Mina 14",
+      "bn": "মিনা কেন্দ্র 14",
+      "fa": "مرکز منا 14"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4188767,
+        "lng": 39.8797837
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 15",
+      "ar": "مركز منى 15",
+      "ud": "منیٰ مرکز 15",
+      "fr": "Centre de Mina 15",
+      "bm": "Pusat Mina 15",
+      "in": "Pusat Mina 15",
+      "tr": "Mina Merkezi 15",
+      "hn": "मिना केंद्र 15",
+      "ks": "Kituo cha Mina 15",
+      "bn": "মিনা কেন্দ্র 15",
+      "fa": "مرکز منا 15"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4221476,
+        "lng": 39.8752625
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 16",
+      "ar": "مركز منى 16",
+      "ud": "منیٰ مرکز 16",
+      "fr": "Centre de Mina 16",
+      "bm": "Pusat Mina 16",
+      "in": "Pusat Mina 16",
+      "tr": "Mina Merkezi 16",
+      "hn": "मिना केंद्र 16",
+      "ks": "Kituo cha Mina 16",
+      "bn": "মিনা কেন্দ্র 16",
+      "fa": "مرکز منا 16"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.417351,
+        "lng": 39.882289
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 17",
+      "ar": "مركز منى 17",
+      "ud": "منیٰ مرکز 17",
+      "fr": "Centre de Mina 17",
+      "bm": "Pusat Mina 17",
+      "in": "Pusat Mina 17",
+      "tr": "Mina Merkezi 17",
+      "hn": "मिना केंद्र 17",
+      "ks": "Kituo cha Mina 17",
+      "bn": "মিনা কেন্দ্র 17",
+      "fa": "مرکز منا 17"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4123537,
+        "lng": 39.8859133
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 18",
+      "ar": "مركز منى 18",
+      "ud": "منیٰ مرکز 18",
+      "fr": "Centre de Mina 18",
+      "bm": "Pusat Mina 18",
+      "in": "Pusat Mina 18",
+      "tr": "Mina Merkezi 18",
+      "hn": "मिना केंद्र 18",
+      "ks": "Kituo cha Mina 18",
+      "bn": "মিনা কেন্দ্র 18",
+      "fa": "مرکز منا 18"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.3975538,
+        "lng": 39.9046726
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 19",
+      "ar": "مركز منى 19",
+      "ud": "منیٰ مرکز 19",
+      "fr": "Centre de Mina 19",
+      "bm": "Pusat Mina 19",
+      "in": "Pusat Mina 19",
+      "tr": "Mina Merkezi 19",
+      "hn": "मिना केंद्र 19",
+      "ks": "Kituo cha Mina 19",
+      "bn": "মিনা কেন্দ্র 19",
+      "fa": "مرکز منا 19"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4142754,
+        "lng": 39.889956
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 20",
+      "ar": "مركز منى 20",
+      "ud": "منیٰ مرکز 20",
+      "fr": "Centre de Mina 20",
+      "bm": "Pusat Mina 20",
+      "in": "Pusat Mina 20",
+      "tr": "Mina Merkezi 20",
+      "hn": "मिना केंद्र 20",
+      "ks": "Kituo cha Mina 20",
+      "bn": "মিনা কেন্দ্র 20",
+      "fa": "مرکز منا 20"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4123826,
+        "lng": 39.895873
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 21",
+      "ar": "مركز منى 21",
+      "ud": "منیٰ مرکز 21",
+      "fr": "Centre de Mina 21",
+      "bm": "Pusat Mina 21",
+      "in": "Pusat Mina 21",
+      "tr": "Mina Merkezi 21",
+      "hn": "मिना केंद्र 21",
+      "ks": "Kituo cha Mina 21",
+      "bn": "মিনা কেন্দ্র 21",
+      "fa": "مرکز منا 21"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4111786,
+        "lng": 39.8943991
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 22",
+      "ar": "مركز منى 22",
+      "ud": "منیٰ مرکز 22",
+      "fr": "Centre de Mina 22",
+      "bm": "Pusat Mina 22",
+      "in": "Pusat Mina 22",
+      "tr": "Mina Merkezi 22",
+      "hn": "मिना केंद्र 22",
+      "ks": "Kituo cha Mina 22",
+      "bn": "মিনা কেন্দ্র 22",
+      "fa": "مرکز منا 22"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4093629,
+        "lng": 39.8950991
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 23",
+      "ar": "مركز منى 23",
+      "ud": "منیٰ مرکز 23",
+      "fr": "Centre de Mina 23",
+      "bm": "Pusat Mina 23",
+      "in": "Pusat Mina 23",
+      "tr": "Mina Merkezi 23",
+      "hn": "मिना केंद्र 23",
+      "ks": "Kituo cha Mina 23",
+      "bn": "মিনা কেন্দ্র 23",
+      "fa": "مرکز منا 23"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.40927,
+        "lng": 39.8926922
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 24",
+      "ar": "مركز منى 24",
+      "ud": "منیٰ مرکز 24",
+      "fr": "Centre de Mina 24",
+      "bm": "Pusat Mina 24",
+      "in": "Pusat Mina 24",
+      "tr": "Mina Merkezi 24",
+      "hn": "मिना केंद्र 24",
+      "ks": "Kituo cha Mina 24",
+      "bn": "মিনা কেন্দ্র 24",
+      "fa": "مرکز منا 24"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4089375,
+        "lng": 39.9049375
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Mina Center 25",
+      "ar": "مركز منى 25",
+      "ud": "منیٰ مرکز 25",
+      "fr": "Centre de Mina 25",
+      "bm": "Pusat Mina 25",
+      "in": "Pusat Mina 25",
+      "tr": "Mina Merkezi 25",
+      "hn": "मिना केंद्र 25",
+      "ks": "Kituo cha Mina 25",
+      "bn": "মিনা কেন্দ্র 25",
+      "fa": "مرکز منا 25"
+    },
+    "type": "mina",
+    "geometry": {
+      "location": {
+        "lat": 21.4077848,
+        "lng": 39.8998091
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Mina, Makkah, Saudi Arabia",
+      "ar": "منى، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "منیٰ، مکہ، سعودی عرب",
+      "fr": "Mina, Mecque, Arabie saoudite",
+      "bm": "Mina, Makkah, Arab Saudi",
+      "in": "Mina, Makkah, Saudi Arabia",
+      "tr": "Mina, Mekke, Suudi Arabistan",
+      "hn": "मिना, मक्का, सऊदी अरब",
+      "ks": "Mina, Makkah, Saudi Arabia",
+      "bn": "মিনা, মাক্কা, সৌদি আরব",
+      "fa": "منا، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "East Arafat Hospital",
+      "ar": "مستشفى شرق عرفات",
+      "ud": "مشرقی عرفات ہسپتال",
+      "fr": "Hôpital Est d'Arafat",
+      "bm": "Hospital Timur Arafat",
+      "in": "Rumah Sakit Timur Arafat",
+      "tr": "Doğu Arafat Hastanesi",
+      "hn": "पूर्व अरफात अस्पताल",
+      "ks": "Hospitali ya Mashariki ya Arafat",
+      "bn": "পূর্ব আরাফাত হাসপাতাল",
+      "fa": "بیمارستان شرق عرفات"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3346875,
+        "lng": 39.9870625
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Jabal Al-Rahma Hospital",
+      "ar": "مستشفى جبل الرحمة",
+      "ud": "جبل الرحمہ ہسپتال",
+      "fr": "Hôpital Jabal Al-Rahma",
+      "bm": "Hospital Jabal Al-Rahma",
+      "in": "Rumah Sakit Jabal Al-Rahma",
+      "tr": "Jabal Al-Rahma Hastanesi",
+      "hn": "जबल अल-रहमा अस्पताल",
+      "ks": "Hospitali ya Jabal Al-Rahma",
+      "bn": "জাবাল আল-রাহমা হাসপাতাল",
+      "fa": "بیمارستان جبل الرحمه"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3530344,
+        "lng": 39.9830058
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Namira Hospital",
+      "ar": "مستشفى نمرة",
+      "ud": "نمرہ ہسپتال",
+      "fr": "Hôpital Namira",
+      "bm": "Hospital Namira",
+      "in": "Rumah Sakit Namira",
+      "tr": "Namira Hastanesi",
+      "hn": "नमीरा अस्पताल",
+      "ks": "Hospitali ya Namira",
+      "bn": "নামিরা হাসপাতাল",
+      "fa": "بیمارستان نمره"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3525049,
+        "lng": 39.9735108
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Health Centers Administration in Arafat",
+      "ar": "إدارة المراكز الصحية بعرفات",
+      "ud": "عرفات میں صحت مراکز انتظامیہ",
+      "fr": "Administration des Centres de Santé d'Arafat",
+      "bm": "Pentadbiran Pusat Kesihatan Arafat",
+      "in": "Administrasi Pusat Kesehatan Arafat",
+      "tr": "Arafat Sağlık Merkezleri Yönetimi",
+      "hn": "अरफात स्वास्थ्य केंद्र प्रशासन",
+      "ks": "Usimamizi wa Vituo vya Afya vya Arafat",
+      "bn": "আরাফাত স্বাস্থ্য কেন্দ্র প্রশাসন",
+      "fa": "اداره مراکز بهداشتی عرفات"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3504314,
+        "lng": 39.9851114
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 1",
+      "ar": "مركز عرفات 1",
+      "ud": "عرفات مرکز 1",
+      "fr": "Centre d'Arafat 1",
+      "bm": "Pusat Arafat 1",
+      "in": "Pusat Arafat 1",
+      "tr": "Arafat Merkezi 1",
+      "hn": "अरफात केंद्र 1",
+      "ks": "Kituo cha Arafat 1",
+      "bn": "আরাফাত কেন্দ্র 1",
+      "fa": "مرکز عرفات 1"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3453851,
+        "lng": 39.956916
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 2",
+      "ar": "مركز عرفات 2",
+      "ud": "عرفات مرکز 2",
+      "fr": "Centre d'Arafat 2",
+      "bm": "Pusat Arafat 2",
+      "in": "Pusat Arafat 2",
+      "tr": "Arafat Merkezi 2",
+      "hn": "अरफात केंद्र 2",
+      "ks": "Kituo cha Arafat 2",
+      "bn": "আরাফাত কেন্দ্র 2",
+      "fa": "مرکز عرفات 2"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3433016,
+        "lng": 39.960596
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 3",
+      "ar": "مركز عرفات 3",
+      "ud": "عرفات مرکز 3",
+      "fr": "Centre d'Arafat 3",
+      "bm": "Pusat Arafat 3",
+      "in": "Pusat Arafat 3",
+      "tr": "Arafat Merkezi 3",
+      "hn": "अरफात केंद्र 3",
+      "ks": "Kituo cha Arafat 3",
+      "bn": "আরাফাত কেন্দ্র 3",
+      "fa": "مرکز عرفات 3"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3439511,
+        "lng": 39.9635437
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 4",
+      "ar": "مركز عرفات 4",
+      "ud": "عرفات مرکز 4",
+      "fr": "Centre d'Arafat 4",
+      "bm": "Pusat Arafat 4",
+      "in": "Pusat Arafat 4",
+      "tr": "Arafat Merkezi 4",
+      "hn": "अरफात केंद्र 4",
+      "ks": "Kituo cha Arafat 4",
+      "bn": "আরাফাত কেন্দ্র 4",
+      "fa": "مرکز عرفات 4"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3433203,
+        "lng": 39.9665424
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 5",
+      "ar": "مركز عرفات 5",
+      "ud": "عرفات مرکز 5",
+      "fr": "Centre d'Arafat 5",
+      "bm": "Pusat Arafat 5",
+      "in": "Pusat Arafat 5",
+      "tr": "Arafat Merkezi 5",
+      "hn": "अरफात केंद्र 5",
+      "ks": "Kituo cha Arafat 5",
+      "bn": "আরাফাত কেন্দ্র 5",
+      "fa": "مرکز عرفات 5"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3439511,
+        "lng": 39.9661133
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 6",
+      "ar": "مركز عرفات 6",
+      "ud": "عرفات مرکز 6",
+      "fr": "Centre d'Arafat 6",
+      "bm": "Pusat Arafat 6",
+      "in": "Pusat Arafat 6",
+      "tr": "Arafat Merkezi 6",
+      "hn": "अरफात केंद्र 6",
+      "ks": "Kituo cha Arafat 6",
+      "bn": "আরাফাত কেন্দ্র 6",
+      "fa": "مرکز عرفات 6"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3444208,
+        "lng": 39.9643617
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 7",
+      "ar": "مركز عرفات 7",
+      "ud": "عرفات مرکز 7",
+      "fr": "Centre d'Arafat 7",
+      "bm": "Pusat Arafat 7",
+      "in": "Pusat Arafat 7",
+      "tr": "Arafat Merkezi 7",
+      "hn": "अरफात केंद्र 7",
+      "ks": "Kituo cha Arafat 7",
+      "bn": "আরাফাত কেন্দ্র 7",
+      "fa": "مرکز عرفات 7"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3468441,
+        "lng": 39.9593219
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 8",
+      "ar": "مركز عرفات 8",
+      "ud": "عرفات مرکز 8",
+      "fr": "Centre d'Arafat 8",
+      "bm": "Pusat Arafat 8",
+      "in": "Pusat Arafat 8",
+      "tr": "Arafat Merkezi 8",
+      "hn": "अरफात केंद्र 8",
+      "ks": "Kituo cha Arafat 8",
+      "bn": "আরাফাত কেন্দ্র 8",
+      "fa": "مرکز عرفات 8"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3491659,
+        "lng": 39.9617134
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 9",
+      "ar": "مركز عرفات 9",
+      "ud": "عرفات مرکز 9",
+      "fr": "Centre d'Arafat 9",
+      "bm": "Pusat Arafat 9",
+      "in": "Pusat Arafat 9",
+      "tr": "Arafat Merkezi 9",
+      "hn": "अरफात केंद्र 9",
+      "ks": "Kituo cha Arafat 9",
+      "bn": "আরাফাত কেন্দ্র 9",
+      "fa": "مرکز عرفات 9"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3473262,
+        "lng": 39.9653837
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 10",
+      "ar": "مركز عرفات 10",
+      "ud": "عرفات مرکز 10",
+      "fr": "Centre d'Arafat 10",
+      "bm": "Pusat Arafat 10",
+      "in": "Pusat Arafat 10",
+      "tr": "Arafat Merkezi 10",
+      "hn": "अरफात केंद्र 10",
+      "ks": "Kituo cha Arafat 10",
+      "bn": "আরাফাত কেন্দ্র 10",
+      "fa": "مرکز عرفات 10"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3445333,
+        "lng": 39.9699114
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 11",
+      "ar": "مركز عرفات 11",
+      "ud": "عرفات مرکز 11",
+      "fr": "Centre d'Arafat 11",
+      "bm": "Pusat Arafat 11",
+      "in": "Pusat Arafat 11",
+      "tr": "Arafat Merkezi 11",
+      "hn": "अरफात केंद्र 11",
+      "ks": "Kituo cha Arafat 11",
+      "bn": "আরাফাত কেন্দ্র 11",
+      "fa": "مرکز عرفات 11"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3437363,
+        "lng": 39.9727249
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 12",
+      "ar": "مركز عرفات 12",
+      "ud": "عرفات مرکز 12",
+      "fr": "Centre d'Arafat 12",
+      "bm": "Pusat Arafat 12",
+      "in": "Pusat Arafat 12",
+      "tr": "Arafat Merkezi 12",
+      "hn": "अरफात केंद्र 12",
+      "ks": "Kituo cha Arafat 12",
+      "bn": "আরাফাত কেন্দ্র 12",
+      "fa": "مرکز عرفات 12"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3471263,
+        "lng": 39.9723602
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 13",
+      "ar": "مركز عرفات 13",
+      "ud": "عرفات مرکز 13",
+      "fr": "Centre d'Arafat 13",
+      "bm": "Pusat Arafat 13",
+      "in": "Pusat Arafat 13",
+      "tr": "Arafat Merkezi 13",
+      "hn": "अरफात केंद्र 13",
+      "ks": "Kituo cha Arafat 13",
+      "bn": "আরাফাত কেন্দ্র 13",
+      "fa": "مرکز عرفات 13"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3487826,
+        "lng": 39.9696886
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 14",
+      "ar": "مركز عرفات 14",
+      "ud": "عرفات مرکز 14",
+      "fr": "Centre d'Arafat 14",
+      "bm": "Pusat Arafat 14",
+      "in": "Pusat Arafat 14",
+      "tr": "Arafat Merkezi 14",
+      "hn": "अरफात केंद्र 14",
+      "ks": "Kituo cha Arafat 14",
+      "bn": "আরাফাত কেন্দ্র 14",
+      "fa": "مرکز عرفات 14"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3496546,
+        "lng": 39.9697008
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 15",
+      "ar": "مركز عرفات 15",
+      "ud": "عرفات مرکز 15",
+      "fr": "Centre d'Arafat 15",
+      "bm": "Pusat Arafat 15",
+      "in": "Pusat Arafat 15",
+      "tr": "Arafat Merkezi 15",
+      "hn": "अरफात केंद्र 15",
+      "ks": "Kituo cha Arafat 15",
+      "bn": "আরাফাত কেন্দ্র 15",
+      "fa": "مرکز عرفات 15"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3502731,
+        "lng": 39.9712259
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 16",
+      "ar": "مركز عرفات 16",
+      "ud": "عرفات مرکز 16",
+      "fr": "Centre d'Arafat 16",
+      "bm": "Pusat Arafat 16",
+      "in": "Pusat Arafat 16",
+      "tr": "Arafat Merkezi 16",
+      "hn": "अरफात केंद्र 16",
+      "ks": "Kituo cha Arafat 16",
+      "bn": "আরাফাত কেন্দ্র 16",
+      "fa": "مرکز عرفات 16"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3459972,
+        "lng": 39.9780491
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 17",
+      "ar": "مركز عرفات 17",
+      "ud": "عرفات مرکز 17",
+      "fr": "Centre d'Arafat 17",
+      "bm": "Pusat Arafat 17",
+      "in": "Pusat Arafat 17",
+      "tr": "Arafat Merkezi 17",
+      "hn": "अरफात केंद्र 17",
+      "ks": "Kituo cha Arafat 17",
+      "bn": "আরাফাত কেন্দ্র 17",
+      "fa": "مرکز عرفات 17"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3446756,
+        "lng": 39.9863398
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 18",
+      "ar": "مركز عرفات 18",
+      "ud": "عرفات مرکز 18",
+      "fr": "Centre d'Arafat 18",
+      "bm": "Pusat Arafat 18",
+      "in": "Pusat Arafat 18",
+      "tr": "Arafat Merkezi 18",
+      "hn": "अरफात केंद्र 18",
+      "ks": "Kituo cha Arafat 18",
+      "bn": "আরাফাত কেন্দ্র 18",
+      "fa": "مرکز عرفات 18"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3483131,
+        "lng": 39.9763057
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 19",
+      "ar": "مركز عرفات 19",
+      "ud": "عرفات مرکز 19",
+      "fr": "Centre d'Arafat 19",
+      "bm": "Pusat Arafat 19",
+      "in": "Pusat Arafat 19",
+      "tr": "Arafat Merkezi 19",
+      "hn": "अरफात केंद्र 19",
+      "ks": "Kituo cha Arafat 19",
+      "bn": "আরাফাত কেন্দ্র 19",
+      "fa": "مرکز عرفات 19"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3530994,
+        "lng": 39.9699327
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 20",
+      "ar": "مركز عرفات 20",
+      "ud": "عرفات مرکز 20",
+      "fr": "Centre d'Arafat 20",
+      "bm": "Pusat Arafat 20",
+      "in": "Pusat Arafat 20",
+      "tr": "Arafat Merkezi 20",
+      "hn": "अरफात केंद्र 20",
+      "ks": "Kituo cha Arafat 20",
+      "bn": "আরাফাত কেন্দ্র 20",
+      "fa": "مرکز عرفات 20"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.351628,
+        "lng": 39.9754661
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 21",
+      "ar": "مركز عرفات 21",
+      "ud": "عرفات مرکز 21",
+      "fr": "Centre d'Arafat 21",
+      "bm": "Pusat Arafat 21",
+      "in": "Pusat Arafat 21",
+      "tr": "Arafat Merkezi 21",
+      "hn": "अरफात केंद्र 21",
+      "ks": "Kituo cha Arafat 21",
+      "bn": "আরাফাত কেন্দ্র 21",
+      "fa": "مرکز عرفات 21"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3497669,
+        "lng": 39.9800608
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 22",
+      "ar": "مركز عرفات 22",
+      "ud": "عرفات مرکز 22",
+      "fr": "Centre d'Arafat 22",
+      "bm": "Pusat Arafat 22",
+      "in": "Pusat Arafat 22",
+      "tr": "Arafat Merkezi 22",
+      "hn": "अरफात केंद्र 22",
+      "ks": "Kituo cha Arafat 22",
+      "bn": "আরাফাত কেন্দ্র 22",
+      "fa": "مرکز عرفات 22"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3466767,
+        "lng": 39.9870721
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 23",
+      "ar": "مركز عرفات 23",
+      "ud": "عرفات مرکز 23",
+      "fr": "Centre d'Arafat 23",
+      "bm": "Pusat Arafat 23",
+      "in": "Pusat Arafat 23",
+      "tr": "Arafat Merkezi 23",
+      "hn": "अरफात केंद्र 23",
+      "ks": "Kituo cha Arafat 23",
+      "bn": "আরাফাত কেন্দ্র 23",
+      "fa": "مرکز عرفات 23"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3546532,
+        "lng": 39.9767804
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 24",
+      "ar": "مركز عرفات 24",
+      "ud": "عرفات مرکز 24",
+      "fr": "Centre d'Arafat 24",
+      "bm": "Pusat Arafat 24",
+      "in": "Pusat Arafat 24",
+      "tr": "Arafat Merkezi 24",
+      "hn": "अरफात केंद्र 24",
+      "ks": "Kituo cha Arafat 24",
+      "bn": "আরাফাত কেন্দ্র 24",
+      "fa": "مرکز عرفات 24"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3569765,
+        "lng": 39.9739642
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 25",
+      "ar": "مركز عرفات 25",
+      "ud": "عرفات مرکز 25",
+      "fr": "Centre d'Arafat 25",
+      "bm": "Pusat Arafat 25",
+      "in": "Pusat Arafat 25",
+      "tr": "Arafat Merkezi 25",
+      "hn": "अरफात केंद्र 25",
+      "ks": "Kituo cha Arafat 25",
+      "bn": "আরাফাত কেন্দ্র 25",
+      "fa": "مرکز عرفات 25"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3565943,
+        "lng": 39.9769441
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 26",
+      "ar": "مركز عرفات 26",
+      "ud": "عرفات مرکز 26",
+      "fr": "Centre d'Arafat 26",
+      "bm": "Pusat Arafat 26",
+      "in": "Pusat Arafat 26",
+      "tr": "Arafat Merkezi 26",
+      "hn": "अरफात केंद्र 26",
+      "ks": "Kituo cha Arafat 26",
+      "bn": "আরাফাত কেন্দ্র 26",
+      "fa": "مرکز عرفات 26"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3533267,
+        "lng": 39.9810988
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 27",
+      "ar": "مركز عرفات 27",
+      "ud": "عرفات مرکز 27",
+      "fr": "Centre d'Arafat 27",
+      "bm": "Pusat Arafat 27",
+      "in": "Pusat Arafat 27",
+      "tr": "Arafat Merkezi 27",
+      "hn": "अरफात केंद्र 27",
+      "ks": "Kituo cha Arafat 27",
+      "bn": "আরাফাত কেন্দ্র 27",
+      "fa": "مرکز عرفات 27"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3506425,
+        "lng": 39.9883797
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 28",
+      "ar": "مركز عرفات 28",
+      "ud": "عرفات مرکز 28",
+      "fr": "Centre d'Arafat 28",
+      "bm": "Pusat Arafat 28",
+      "in": "Pusat Arafat 28",
+      "tr": "Arafat Merkezi 28",
+      "hn": "अरफात केंद्र 28",
+      "ks": "Kituo cha Arafat 28",
+      "bn": "আরাফাত কেন্দ্র 28",
+      "fa": "مرکز عرفات 28"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3673986,
+        "lng": 39.9831669
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 29",
+      "ar": "مركز عرفات 29",
+      "ud": "عرفات مرکز 29",
+      "fr": "Centre d'Arafat 29",
+      "bm": "Pusat Arafat 29",
+      "in": "Pusat Arafat 29",
+      "tr": "Arafat Merkezi 29",
+      "hn": "अरफात केंद्र 29",
+      "ks": "Kituo cha Arafat 29",
+      "bn": "আরাফাত কেন্দ্র 29",
+      "fa": "مرکز عرفات 29"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3573061,
+        "lng": 39.9828476
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 30",
+      "ar": "مركز عرفات 30",
+      "ud": "عرفات مرکز 30",
+      "fr": "Centre d'Arafat 30",
+      "bm": "Pusat Arafat 30",
+      "in": "Pusat Arafat 30",
+      "tr": "Arafat Merkezi 30",
+      "hn": "अरफात केंद्र 30",
+      "ks": "Kituo cha Arafat 30",
+      "bn": "আরাফাত কেন্দ্র 30",
+      "fa": "مرکز عرفات 30"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3577857,
+        "lng": 39.9796316
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 31",
+      "ar": "مركز عرفات 31",
+      "ud": "عرفات مرکز 31",
+      "fr": "Centre d'Arafat 31",
+      "bm": "Pusat Arafat 31",
+      "in": "Pusat Arafat 31",
+      "tr": "Arafat Merkezi 31",
+      "hn": "अरफात केंद्र 31",
+      "ks": "Kituo cha Arafat 31",
+      "bn": "আরাফাত কেন্দ্র 31",
+      "fa": "مرکز عرفات 31"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.359944,
+        "lng": 39.9772257
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 32",
+      "ar": "مركز عرفات 32",
+      "ud": "عرفات مرکز 32",
+      "fr": "Centre d'Arafat 32",
+      "bm": "Pusat Arafat 32",
+      "in": "Pusat Arafat 32",
+      "tr": "Arafat Merkezi 32",
+      "hn": "अरफात केंद्र 32",
+      "ks": "Kituo cha Arafat 32",
+      "bn": "আরাফাত কেন্দ্র 32",
+      "fa": "مرکز عرفات 32"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3608125,
+        "lng": 39.9746875
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 33",
+      "ar": "مركز عرفات 33",
+      "ud": "عرفات مرکز 33",
+      "fr": "Centre d'Arafat 33",
+      "bm": "Pusat Arafat 33",
+      "in": "Pusat Arafat 33",
+      "tr": "Arafat Merkezi 33",
+      "hn": "अरफात केंद्र 33",
+      "ks": "Kituo cha Arafat 33",
+      "bn": "আরাফাত কেন্দ্র 33",
+      "fa": "مرکز عرفات 33"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3634792,
+        "lng": 39.9760429
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 34",
+      "ar": "مركز عرفات 34",
+      "ud": "عرفات مرکز 34",
+      "fr": "Centre d'Arafat 34",
+      "bm": "Pusat Arafat 34",
+      "in": "Pusat Arafat 34",
+      "tr": "Arafat Merkezi 34",
+      "hn": "अरफात केंद्र 34",
+      "ks": "Kituo cha Arafat 34",
+      "bn": "আরাফাত কেন্দ্র 34",
+      "fa": "مرکز عرفات 34"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3614053,
+        "lng": 39.9797469
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 35",
+      "ar": "مركز عرفات 35",
+      "ud": "عرفات مرکز 35",
+      "fr": "Centre d'Arafat 35",
+      "bm": "Pusat Arafat 35",
+      "in": "Pusat Arafat 35",
+      "tr": "Arafat Merkezi 35",
+      "hn": "अरफात केंद्र 35",
+      "ks": "Kituo cha Arafat 35",
+      "bn": "আরাফাত কেন্দ্র 35",
+      "fa": "مرکز عرفات 35"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.359984,
+        "lng": 39.9845374
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 36",
+      "ar": "مركز عرفات 36",
+      "ud": "عرفات مرکز 36",
+      "fr": "Centre d'Arafat 36",
+      "bm": "Pusat Arafat 36",
+      "in": "Pusat Arafat 36",
+      "tr": "Arafat Merkezi 36",
+      "hn": "अरफात केंद्र 36",
+      "ks": "Kituo cha Arafat 36",
+      "bn": "আরাফাত কেন্দ্র 36",
+      "fa": "مرکز عرفات 36"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3624135,
+        "lng": 39.9789516
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 37",
+      "ar": "مركز عرفات 37",
+      "ud": "عرفات مرکز 37",
+      "fr": "Centre d'Arafat 37",
+      "bm": "Pusat Arafat 37",
+      "in": "Pusat Arafat 37",
+      "tr": "Arafat Merkezi 37",
+      "hn": "अरफात केंद्र 37",
+      "ks": "Kituo cha Arafat 37",
+      "bn": "আরাফাত কেন্দ্র 37",
+      "fa": "مرکز عرفات 37"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3644452,
+        "lng": 39.9791461
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 38",
+      "ar": "مركز عرفات 38",
+      "ud": "عرفات مرکز 38",
+      "fr": "Centre d'Arafat 38",
+      "bm": "Pusat Arafat 38",
+      "in": "Pusat Arafat 38",
+      "tr": "Arafat Merkezi 38",
+      "hn": "अरफात केंद्र 38",
+      "ks": "Kituo cha Arafat 38",
+      "bn": "আরাফাত কেন্দ্র 38",
+      "fa": "مرکز عرفات 38"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3633986,
+        "lng": 39.9827188
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 39",
+      "ar": "مركز عرفات 39",
+      "ud": "عرفات مرکز 39",
+      "fr": "Centre d'Arafat 39",
+      "bm": "Pusat Arafat 39",
+      "in": "Pusat Arafat 39",
+      "tr": "Arafat Merkezi 39",
+      "hn": "अरफात केंद्र 39",
+      "ks": "Kituo cha Arafat 39",
+      "bn": "আরাফাত কেন্দ্র 39",
+      "fa": "مرکز عرفات 39"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.362437,
+        "lng": 39.9843845
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 40",
+      "ar": "مركز عرفات 40",
+      "ud": "عرفات مرکز 40",
+      "fr": "Centre d'Arafat 40",
+      "bm": "Pusat Arafat 40",
+      "in": "Pusat Arafat 40",
+      "tr": "Arafat Merkezi 40",
+      "hn": "अरफात केंद्र 40",
+      "ks": "Kituo cha Arafat 40",
+      "bn": "আরাফাত কেন্দ্র 40",
+      "fa": "مرکز عرفات 40"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3589673,
+        "lng": 39.9906072
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 41",
+      "ar": "مركز عرفات 41",
+      "ud": "عرفات مرکز 41",
+      "fr": "Centre d'Arafat 41",
+      "bm": "Pusat Arafat 41",
+      "in": "Pusat Arafat 41",
+      "tr": "Arafat Merkezi 41",
+      "hn": "अरफात केंद्र 41",
+      "ks": "Kituo cha Arafat 41",
+      "bn": "আরাফাত কেন্দ্র 41",
+      "fa": "مرکز عرفات 41"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3673986,
+        "lng": 39.9831669
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 42",
+      "ar": "مركز عرفات 42",
+      "ud": "عرفات مرکز 42",
+      "fr": "Centre d'Arafat 42",
+      "bm": "Pusat Arafat 42",
+      "in": "Pusat Arafat 42",
+      "tr": "Arafat Merkezi 42",
+      "hn": "अरफात केंद्र 42",
+      "ks": "Kituo cha Arafat 42",
+      "bn": "আরাফাত কেন্দ্র 42",
+      "fa": "مرکز عرفات 42"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3703,
+        "lng": 39.980668
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 43",
+      "ar": "مركز عرفات 43",
+      "ud": "عرفات مرکز 43",
+      "fr": "Centre d'Arafat 43",
+      "bm": "Pusat Arafat 43",
+      "in": "Pusat Arafat 43",
+      "tr": "Arafat Merkezi 43",
+      "hn": "अरफात केंद्र 43",
+      "ks": "Kituo cha Arafat 43",
+      "bn": "আরাফাত কেন্দ্র 43",
+      "fa": "مرکز عرفات 43"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3696852,
+        "lng": 39.9837797
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 44",
+      "ar": "مركز عرفات 44",
+      "ud": "عرفات مرکز 44",
+      "fr": "Centre d'Arafat 44",
+      "bm": "Pusat Arafat 44",
+      "in": "Pusat Arafat 44",
+      "tr": "Arafat Merkezi 44",
+      "hn": "अरफात केंद्र 44",
+      "ks": "Kituo cha Arafat 44",
+      "bn": "আরাফাত কেন্দ্র 44",
+      "fa": "مرکز عرفات 44"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3707648,
+        "lng": 39.9854708
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 45",
+      "ar": "مركز عرفات 45",
+      "ud": "عرفات مرکز 45",
+      "fr": "Centre d'Arafat 45",
+      "bm": "Pusat Arafat 45",
+      "in": "Pusat Arafat 45",
+      "tr": "Arafat Merkezi 45",
+      "hn": "अरफात केंद्र 45",
+      "ks": "Kituo cha Arafat 45",
+      "bn": "আরাফাত কেন্দ্র 45",
+      "fa": "مرکز عرفات 45"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3732201,
+        "lng": 39.9863406
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Arafat Center 46",
+      "ar": "مركز عرفات 46",
+      "ud": "عرفات مرکز 46",
+      "fr": "Centre d'Arafat 46",
+      "bm": "Pusat Arafat 46",
+      "in": "Pusat Arafat 46",
+      "tr": "Arafat Merkezi 46",
+      "hn": "अरफात केंद्र 46",
+      "ks": "Kituo cha Arafat 46",
+      "bn": "আরাফাত কেন্দ্র 46",
+      "fa": "مرکز عرفات 46"
+    },
+    "type": "arafat",
+    "geometry": {
+      "location": {
+        "lat": 21.3762898,
+        "lng": 39.9860448
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Arafat, Makkah, Saudi Arabia",
+      "ar": "عرفات، مكة المكرمة، المملكة العربية السعودية",
+      "ud": "عرفات، مکہ، سعودی عرب",
+      "fr": "Arafat, Mecque, Arabie saoudite",
+      "bm": "Arafat, Makkah, Arab Saudi",
+      "in": "Arafat, Makkah, Saudi Arabia",
+      "tr": "Arafat, Mekke, Suudi Arabistan",
+      "hn": "अरफात, मक्का, सऊदी अरब",
+      "ks": "Arafat, Makkah, Saudi Arabia",
+      "bn": "আরাফাত, মাক্কা, সৌদি আরব",
+      "fa": "عرفات، مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Pedestrian Line Health Center 1",
+      "ar": "مركز صحي خط المشاة 1",
+      "ud": "پیدل راستہ صحت مرکز 1",
+      "fr": "Centre de Santé de la Voie Piétonne 1",
+      "bm": "Pusat Kesihatan Laluan Pejalan Kaki 1",
+      "in": "Pusat Kesehatan Jalur Pejalan Kaki 1",
+      "tr": "Yaya Hattı Sağlık Merkezi 1",
+      "hn": "पैदल मार्ग स्वास्थ्य केंद्र 1",
+      "ks": "Kituo cha Afya cha Njia ya Watembea kwa Miguu 1",
+      "bn": "পথচারী লাইন স্বাস্থ্য কেন্দ্র 1",
+      "fa": "مرکز بهداشتی مسیر پیاده 1"
+    },
+    "type": "pedestrian_line",
+    "geometry": {
+      "location": {
+        "lat": 21.3866875,
+        "lng": 39.9078125
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Makkah, Saudi Arabia",
+      "ar": "مكة المكرمة، المملكة العربية السعودية",
+      "ud": "مکہ، سعودی عرب",
+      "fr": "Mecque, Arabie saoudite",
+      "bm": "Makkah, Arab Saudi",
+      "in": "Makkah, Saudi Arabia",
+      "tr": "Mekke, Suudi Arabistan",
+      "hn": "मक्का, सऊदी अरब",
+      "ks": "Makkah, Saudi Arabia",
+      "bn": "মাক্কা, সৌদি আরব",
+      "fa": "مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Pedestrian Line Health Center 2",
+      "ar": "مركز صحي خط المشاة 2",
+      "ud": "پیدل راستہ صحت مرکز 2",
+      "fr": "Centre de Santé de la Voie Piétonne 2",
+      "bm": "Pusat Kesihatan Laluan Pejalan Kaki 2",
+      "in": "Pusat Kesehatan Jalur Pejalan Kaki 2",
+      "tr": "Yaya Hattı Sağlık Merkezi 2",
+      "hn": "पैदल मार्ग स्वास्थ्य केंद्र 2",
+      "ks": "Kituo cha Afya cha Njia ya Watembea kwa Miguu 2",
+      "bn": "পথচারী লাইন স্বাস্থ্য কেন্দ্র 2",
+      "fa": "مرکز بهداشتی مسیر پیاده 2"
+    },
+    "type": "pedestrian_line",
+    "geometry": {
+      "location": {
+        "lat": 21.3865499,
+        "lng": 39.9154651
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Makkah, Saudi Arabia",
+      "ar": "مكة المكرمة، المملكة العربية السعودية",
+      "ud": "مکہ، سعودی عرب",
+      "fr": "Mecque, Arabie saoudite",
+      "bm": "Makkah, Arab Saudi",
+      "in": "Makkah, Saudi Arabia",
+      "tr": "Mekke, Suudi Arabistan",
+      "hn": "मक्का, सऊदी अरब",
+      "ks": "Makkah, Saudi Arabia",
+      "bn": "মাক্কা, সৌদি আরব",
+      "fa": "مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Pedestrian Line Health Center 3",
+      "ar": "مركز صحي خط المشاة 3",
+      "ud": "پیدل راستہ صحت مرکز 3",
+      "fr": "Centre de Santé de la Voie Piétonne 3",
+      "bm": "Pusat Kesihatan Laluan Pejalan Kaki 3",
+      "in": "Pusat Kesehatan Jalur Pejalan Kaki 3",
+      "tr": "Yaya Hattı Sağlık Merkezi 3",
+      "hn": "पैदल मार्ग स्वास्थ्य केंद्र 3",
+      "ks": "Kituo cha Afya cha Njia ya Watembea kwa Miguu 3",
+      "bn": "পথচারী লাইন স্বাস্থ্য কেন্দ্র 3",
+      "fa": "مرکز بهداشتی مسیر پیاده 3"
+    },
+    "type": "pedestrian_line",
+    "geometry": {
+      "location": {
+        "lat": 21.3795492,
+        "lng": 39.923101
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Makkah, Saudi Arabia",
+      "ar": "مكة المكرمة، المملكة العربية السعودية",
+      "ud": "مکہ، سعودی عرب",
+      "fr": "Mecque, Arabie saoudite",
+      "bm": "Makkah, Arab Saudi",
+      "in": "Makkah, Saudi Arabia",
+      "tr": "Mekke, Suudi Arabistan",
+      "hn": "मक्का, सऊदी अरब",
+      "ks": "Makkah, Saudi Arabia",
+      "bn": "মাক্কা, সৌদি আরব",
+      "fa": "مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Pedestrian Line Health Center 4",
+      "ar": "مركز صحي خط المشاة 4",
+      "ud": "پیدل راستہ صحت مرکز 4",
+      "fr": "Centre de Santé de la Voie Piétonne 4",
+      "bm": "Pusat Kesihatan Laluan Pejalan Kaki 4",
+      "in": "Pusat Kesehatan Jalur Pejalan Kaki 4",
+      "tr": "Yaya Hattı Sağlık Merkezi 4",
+      "hn": "पैदल मार्ग स्वास्थ्य केंद्र 4",
+      "ks": "Kituo cha Afya cha Njia ya Watembea kwa Miguu 4",
+      "bn": "পথচারী লাইন স্বাস্থ্য কেন্দ্র 4",
+      "fa": "مرکز بهداشتی مسیر پیاده 4"
+    },
+    "type": "pedestrian_line",
+    "geometry": {
+      "location": {
+        "lat": 21.3722571,
+        "lng": 39.9379375
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Makkah, Saudi Arabia",
+      "ar": "مكة المكرمة، المملكة العربية السعودية",
+      "ud": "مکہ، سعودی عرب",
+      "fr": "Mecque, Arabie saoudite",
+      "bm": "Makkah, Arab Saudi",
+      "in": "Makkah, Saudi Arabia",
+      "tr": "Mekke, Suudi Arabistan",
+      "hn": "मक्का, सऊदी अरब",
+      "ks": "Makkah, Saudi Arabia",
+      "bn": "মাক্কা, সৌদি আরব",
+      "fa": "مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Pedestrian Line Health Center 5",
+      "ar": "مركز صحي خط المشاة 5",
+      "ud": "پیدل راستہ صحت مرکز 5",
+      "fr": "Centre de Santé de la Voie Piétonne 5",
+      "bm": "Pusat Kesihatan Laluan Pejalan Kaki 5",
+      "in": "Pusat Kesehatan Jalur Pejalan Kaki 5",
+      "tr": "Yaya Hattı Sağlık Merkezi 5",
+      "hn": "पैदल मार्ग स्वास्थ्य केंद्र 5",
+      "ks": "Kituo cha Afya cha Njia ya Watembea kwa Miguu 5",
+      "bn": "পথচারী লাইন স্বাস্থ্য কেন্দ্র 5",
+      "fa": "مرکز بهداشتی مسیر پیاده 5"
+    },
+    "type": "pedestrian_line",
+    "geometry": {
+      "location": {
+        "lat": 21.3642205,
+        "lng": 39.9521256
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Makkah, Saudi Arabia",
+      "ar": "مكة المكرمة، المملكة العربية السعودية",
+      "ud": "مکہ، سعودی عرب",
+      "fr": "Mecque, Arabie saoudite",
+      "bm": "Makkah, Arab Saudi",
+      "in": "Makkah, Saudi Arabia",
+      "tr": "Mekke, Suudi Arabistan",
+      "hn": "मक्का, सऊदी अरब",
+      "ks": "Makkah, Saudi Arabia",
+      "bn": "মাক্কা, সৌদি আরব",
+      "fa": "مکه، عربستان سعودی"
+    }
+  },
+  {
+    "name": {
+      "en": "Pedestrian Line Health Center 6",
+      "ar": "مركز صحي خط المشاة 6",
+      "ud": "پیدل راستہ صحت مرکز 6",
+      "fr": "Centre de Santé de la Voie Piétonne 6",
+      "bm": "Pusat Kesihatan Laluan Pejalan Kaki 6",
+      "in": "Pusat Kesehatan Jalur Pejalan Kaki 6",
+      "tr": "Yaya Hattı Sağlık Merkezi 6",
+      "hn": "पैदल मार्ग स्वास्थ्य केंद्र 6",
+      "ks": "Kituo cha Afya cha Njia ya Watembea kwa Miguu 6",
+      "bn": "পথচারী লাইন স্বাস্থ্য কেন্দ্র 6",
+      "fa": "مرکز بهداشتی مسیر پیاده 6"
+    },
+    "type": "pedestrian_line",
+    "geometry": {
+      "location": {
+        "lat": 21.3594744,
+        "lng": 39.9598718
+      }
+    },
+    "rating": 3,
+    "formatted_address": {
+      "en": "Makkah, Saudi Arabia",
+      "ar": "مكة المكرمة، المملكة العربية السعودية",
+      "ud": "مکہ، سعودی عرب",
+      "fr": "Mecque, Arabie saoudite",
+      "bm": "Makkah, Arab Saudi",
+      "in": "Makkah, Saudi Arabia",
+      "tr": "Mekke, Suudi Arabistan",
+      "hn": "मक्का, सऊदी अरब",
+      "ks": "Makkah, Saudi Arabia",
+      "bn": "মাক্কা, সৌদি আরব",
+      "fa": "مکه، عربستان سعودی"
+    }
+  }
+]
