@@ -10,5 +10,5 @@ const QuestionSchema = new Schema({
   answer : { type: String, required: true },
 });
 
-module.exports =
+export default
   mongoose.models.Questions || mongoose.model("Questions", QuestionSchema);

@@ -28,5 +28,5 @@ const FeedBackSchema = new Schema(
   { timestamps: true, versionKey: false }
 );
 
-module.exports =
+export default
   mongoose.models.FeedBacks || mongoose.model('FeedBacks', FeedBackSchema);

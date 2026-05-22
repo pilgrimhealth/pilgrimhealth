@@ -22,5 +22,5 @@ const ChatListSchema = new Schema(
   { timestamps: true, versionKey: false }
 );
 
-module.exports =
+export default
   mongoose.models.ChatLists || mongoose.model('ChatLists', ChatListSchema);
